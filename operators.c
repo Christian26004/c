@@ -9,7 +9,7 @@ int main() {
 	// Arithmetic operators 
 	// +, -, /, *, %
 	//
-	// Increment and devrement operators
+	// Increment and decrement operators
 	// ++, --
 	//
 	// Assignment operators
