@@ -52,21 +52,21 @@ int main() {
 	a++;
 	printf("a++ = %d\n", a);
 
-	printf("Post Increment");
+	printf("Post Increment\n");
 	a = 5;
 	b = 5;
 	b = a++;
 	printf("b = %d\n", b); // b gets assigned to first.
 	printf("a = %d\n", a); // a is increamented second.
 
-	printf("Pre Increment");
+	printf("Pre Increment\n");
 	a = 5;
 	b = 5;
 	b = ++a;
 	printf("b = %d\n", b); // b gets assigned to second.
 	printf("a = %d\n", a); // a is increamented first.
 
-	printf("Assignment operators:\n");
+	printf("Assignment Operators\n");
 	a = 5;
 	b = 5;
 
