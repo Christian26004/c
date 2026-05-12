@@ -28,6 +28,6 @@ int nb = 42; -> 0b 00101010 00000000 00000000 00000000
 
 _Helpfull Resources:_
 
-- youtube.com/watch?v=ZNjg_7nxsz4
+- [Pointers, visually explained | Code Words](https://www.youtube.com/watch?v=ZNjg_7nxsz4)
 
 - 
